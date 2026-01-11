@@ -63,7 +63,7 @@ Each algorithm is implemented from scratch in the `strategies/` directory to dem
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/SmartExplorer.git
+git clone [https://github.com/yourusername/SmartExplorer.git](https://github.com/YoussefAIDT/SmartExplorer)
 cd SmartExplorer
 pip install -r requirements.txt
 ```
@@ -92,4 +92,4 @@ Initial benchmarks show that **PPO** and **Curiosity-DQN** excel in complex maze
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Authors
-- **[Your Name/Team Name]** - *Initial Work & Architecture*
+- **[ES-SAAIDI Youssef]** - *Initial Work & Architecture*
